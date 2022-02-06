@@ -21,7 +21,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/zim-bot">DripsMemes</a> to make it public
+Project created by <a href="https://github.com/bajwajani963/queen-angella1/edit/master/README.md">DripsMemes</a> to make it public
     <br>
        | © |
         Reserved |
